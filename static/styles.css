@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    max-width: 1800px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
