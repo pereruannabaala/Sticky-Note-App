@@ -1,10 +1,10 @@
 [
     {
         "text": "Hello",
-        "color": "pink"
+        "color": "yellow"
     },
     {
-        "text": "Go grocery shopping later.Remember ",
-        "color": "lightblue"
+        "text": "Grab tea later",
+        "color": "yellow"
     }
 ]
