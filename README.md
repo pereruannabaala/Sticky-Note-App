@@ -16,10 +16,12 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
 - Flask (Python web framework)
 
 #### Installation
-- Clone the repositorygit clone https://github.com/yourusername/stick-notes.git
-- Navigate to the directory: cd Sticky-Note-App
+- Clone the repository
+  ```python
+  git clone https://github.com/yourusername/stick-notes.git
+  ```
+- Navigate to the directory:
+  ```python
+   cd Sticky-Note-App
+  ```
 
-```python
-def square():
-    pass 
-```
