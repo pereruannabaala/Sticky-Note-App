@@ -15,5 +15,7 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
 - Python 3.7 or higher
 - pip (Python package installer)
 - Flask (Python web framework)
-Installation
-Clone the repository:
+
+#### Installation
+- Clone the repository: git clone https://github.com/yourusername/stick-notes.git
+- Navigate to the directory: cd Sticky-Note-App
