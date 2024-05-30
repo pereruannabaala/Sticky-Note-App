@@ -1,4 +1,4 @@
-Stick-Notes App
+#Stick-Notes App
 Stick-Notes is a simple and intuitive web application that allows users to create, manage, and delete personal notes. This application is built using Python and Flask for the backend.
 
 Features
