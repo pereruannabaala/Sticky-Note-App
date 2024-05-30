@@ -32,9 +32,10 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
   ```python
   pip install -r requirements.txt
   ```
-= Run Flask
+- Run Flask
 ```python
 flask run
 ```
+Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
 
 
