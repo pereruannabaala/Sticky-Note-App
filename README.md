@@ -18,10 +18,23 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
 #### Installation
 - Clone the repository
   ```python
-  git clone https://github.com/yourusername/stick-notes.git
+  git clone https://github.com/pereruannabaala/Sticky-Note-App.git
   ```
 - Navigate to the directory:
   ```python
    cd Sticky-Note-App
   ```
+- Activate virtual environment
+  ```python
+  source venv/bin/activate
+  ```
+- Install the required packages
+  ```python
+  pip install -r requirements.txt
+  ```
+= Run Flask
+```python
+flask run
+```
+
 
