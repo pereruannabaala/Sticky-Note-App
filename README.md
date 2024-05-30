@@ -8,14 +8,14 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
 - View Notes: Users can view all their notes in a list.
 - Delete Notes: Users can delete notes that are no longer needed.
 
-###  Getting Started
+##  Getting Started
 #### Prerequisites
  Ensure you have the following installed on your system:
 - Python 3.7 or higher
 - pip (Python package installer)
 - Flask (Python web framework)
 
-#### Installation
+## Installation
 - Clone the repository
   ```python
   git clone https://github.com/pereruannabaala/Sticky-Note-App.git
