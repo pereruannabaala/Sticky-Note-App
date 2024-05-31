@@ -45,4 +45,10 @@ Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
 3. Pick the color you want your note to be.
 4. Click "Add" to create note
 
+### Viewing note
+- All created notes are displayed on the home page.
+
+### Deleting note
+1. On the note click "Delete"
+
 
