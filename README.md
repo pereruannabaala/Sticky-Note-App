@@ -4,8 +4,8 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
 
 ## Features
 
-- Create Notes: Users can add new notes with a title and content.
-- View Notes: Users can view all their notes in a list.
+- Create Notes: Users can add new notes with content.
+- View Notes: Users can view all their notes.
 - Delete Notes: Users can delete notes that are no longer needed.
 
 ##  Getting Started
