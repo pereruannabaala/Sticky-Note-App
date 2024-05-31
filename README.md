@@ -38,4 +38,11 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
   ```
 Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
 
+## Usage
+### Creating a note
+1 Navigate to home page
+2 Click on the "Take note" button
+3 Pick the color you want your note to be.
+4 Click "Add" to create note
+
 
