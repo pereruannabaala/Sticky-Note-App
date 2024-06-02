@@ -52,3 +52,4 @@ Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
 1. On the note click "Delete"
 
 ## Demo
+https://github.com/pereruannabaala/Sticky-Note-App/assets/62021401/526d5d18-2fe1-4e9f-994c-b4bca080560e
