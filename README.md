@@ -8,6 +8,9 @@ Stick-Notes is a simple and intuitive web application that allows users to creat
 - View Notes: Users can view all their notes.
 - Delete Notes: Users can delete notes that are no longer needed.
 
+## Demo
+https://github.com/pereruannabaala/Sticky-Note-App/assets/62021401/526d5d18-2fe1-4e9f-994c-b4bca080560e
+
 ##  Getting Started
 #### Prerequisites
  Ensure you have the following installed on your system:
@@ -51,5 +54,3 @@ Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
 ### Deleting note
 1. On the note click "Delete"
 
-## Demo
-https://github.com/pereruannabaala/Sticky-Note-App/assets/62021401/526d5d18-2fe1-4e9f-994c-b4bca080560e
