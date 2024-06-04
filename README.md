@@ -28,15 +28,15 @@ https://github.com/pereruannabaala/Sticky-Note-App/assets/62021401/526d5d18-2fe1
    cd Sticky-Note-App
   ```
 - Activate virtual environment
-  ```
+  ```python
   source venv/bin/activate
   ```
 - Install the required packages
-  ```
+  ```python
   pip install -r requirements.txt
   ```
 - Run Flask
-  ```
+  ```python
   flask run
   ```
 Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
