@@ -20,23 +20,23 @@ https://github.com/pereruannabaala/Sticky-Note-App/assets/62021401/526d5d18-2fe1
 
 ## Installation
 - Clone the repository
-  ```python
+  ```
   git clone https://github.com/pereruannabaala/Sticky-Note-App.git
   ```
 - Navigate to the directory:
-  ```python
+  ```
    cd Sticky-Note-App
   ```
 - Activate virtual environment
-  ```python
+  ```
   source venv/bin/activate
   ```
 - Install the required packages
-  ```python
+  ```
   pip install -r requirements.txt
   ```
 - Run Flask
-  ```python
+  ```
   flask run
   ```
 Visit http://127.0.0.1:5000 in your web browser to use the Stick-Notes app.
