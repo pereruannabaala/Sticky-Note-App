@@ -1,4 +1,4 @@
-# Stick-Notes App
+z# Stick-Notes App
 
 Stick-Notes is a simple and intuitive web application that allows users to create, manage, and delete personal notes.From Pink to blue to yellow, you also get to select the color of your note.This application is built using Python and Flask for the backend.
 
@@ -20,11 +20,11 @@ https://github.com/pereruannabaala/Sticky-Note-App/assets/62021401/526d5d18-2fe1
 
 ## Installation
 - Clone the repository
-  ```
+  ```python
   git clone https://github.com/pereruannabaala/Sticky-Note-App.git
   ```
 - Navigate to the directory:
-  ```
+  ```python
    cd Sticky-Note-App
   ```
 - Activate virtual environment
